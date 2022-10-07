@@ -1,0 +1,8 @@
+﻿FirstName   : Subodh
+LastName    : Nagalwade
+Address     : 12 ujjwal nagar
+PhoneNumber : 1234567890
+City        : Lakhni
+State       : Maharastra 
+Zip         : 441804
+Email       : Sub@gmail.com
